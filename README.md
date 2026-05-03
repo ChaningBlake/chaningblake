@@ -11,6 +11,5 @@ Curiosity has been the driving force throughout my career. I approach every proj
 ![](https://streak-stats.demolab.com/?user=chaningblake&theme=dark&hide_border=false)<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=chaningblake&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
